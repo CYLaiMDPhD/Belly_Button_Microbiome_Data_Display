@@ -15,7 +15,7 @@ In this module, we learned how to create web interactive graphs using Plotly. Mi
 	- use javascript eventListeners
 - Manipulating JSON data using javascript array functions.
 - Plotting bar graphs.
-- - vertical, horizontal, and grouped bar graphs.
+	- vertical, horizontal, and grouped bar graphs.
 - Plotting pie charts.
 - Plotting bubble charts.
 - Plotting gauge charts.
@@ -30,3 +30,4 @@ In this module, we learned how to create web interactive graphs using Plotly. Mi
 - static/js/charts.js
 
 **The project is also deployed as a public webpage using Github Pages.**
+https://cylaimdphd.github.io/Plotly_Microbiome_Deploy/
