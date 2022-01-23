@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Other files
+.DS_Store
+
+config.js
+config.txt
+config.py
+practice.ipynb
+random.ipynb
+other_prep.ipynb
