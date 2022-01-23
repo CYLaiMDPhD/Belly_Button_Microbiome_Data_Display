@@ -11,8 +11,8 @@ In this module, we learned how to create web interactive graphs using Plotly. Mi
 ## Module Exercises
 - Introduction to Plotly graphs.
 - Using the D3 library to load JSON files
-- - create dropdown menu in html from JSON data
-- - use javascript eventListeners
+	- create dropdown menu in html from JSON data
+	- use javascript eventListeners
 - Manipulating JSON data using javascript array functions.
 - Plotting bar graphs.
 - - vertical, horizontal, and grouped bar graphs.
