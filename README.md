@@ -1,6 +1,6 @@
 # Plotly_Microbiome_Deploy
 
-*Note: This repository was created to fulfill assignments (Module 12 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
+*Note: This repository was created to fulfill assignments (Module 12 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The content, code, and format of this project were based on the grading rubric.*
 
 
 ## Overview
