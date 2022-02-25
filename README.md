@@ -1,11 +1,19 @@
 # Plotly_Microbiome_Deploy
 
-*Note: This repository was created to fulfill assignments (Module 12 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Submitted on 1-23-22 for grading.*
+*Note: This repository was created to fulfill assignments (Module 12 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
 
 
 ## Overview
-In this module, we learned how to create web interactive graphs using Plotly. Microbiome sequencing data was provided as part of the course materials and plotted in various chart types.
+This project demonstrates use of JavaScript to read JSON data and creating interactive graphs using Plotly. The JSON data was parsed for display on selection of specific subject IDs. Plotly was used to display a bar graph, bubble chart, and a gauge chart from data on the selected subject. To view the project, click on the GitHub Pages link below.
 
+
+**The project is deployed as a public webpage using GitHub Pages:**
+
+https://cylaimdphd.github.io/Plotly_Microbiome_Deploy/
+
+
+**Data Source:**
+A sample dataset of skin microbiome sequencing results was provided as part of the course materials as a JSON file. Data appears to be 16srRNA sequencing and identification by OTU analysis with associated demographic information from donors.
 
 ---
 ## Module Exercises
@@ -29,6 +37,3 @@ In this module, we learned how to create web interactive graphs using Plotly. Mi
 - samples.json
 - static/js/charts.js
 
-**The project is also deployed as a public webpage using Github Pages:**
-
-https://cylaimdphd.github.io/Plotly_Microbiome_Deploy/
