@@ -1,10 +1,10 @@
-# Plotly_Microbiome_Deploy
+# An Interactive Webpage to View Sample Microbiome Data
 
 *Note: This repository was created to fulfill assignments (Module 12 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The content, code, and format of this project were based on the grading rubric.*
 
 
 ## Overview
-This project demonstrates use of JavaScript to read JSON data and creating interactive graphs using Plotly. The JSON data was parsed for display on selection of specific subject IDs. Plotly was used to display a bar graph, bubble chart, and a gauge chart from data on the selected subject. To view the project, click on the GitHub Pages link below.
+This project demonstrates use of JavaScript to read JSON data and creating interactive graphs using Plotly. The JSON data was parsed for display on selection of specific subject IDs. Plotly was used to display a bar graph, bubble chart, and a gauge chart from data on the selected subject. To view the project, click on the GitHub Pages link below. Select a subject ID from the dropdown menu to view their belly button skin microbiome data.
 
 
 **The project is deployed as a public webpage using GitHub Pages:**
